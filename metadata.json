@@ -1,0 +1,6 @@
+{
+  "name": "AI 학습지 도우미",
+  "description": "선생님을 위한 AI 맞춤형 수업 학습지 자동 설계, 학생 QR 배포, 자동 채점 및 답안 아카이빙 스튜디오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
